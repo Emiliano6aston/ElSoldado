@@ -90,6 +90,11 @@ int main() {
 			}
 		}
 	}
+
+	delete soldado1;
+	delete revolver1;
+	delete escopeta1;
+	delete rifle1;
 	
 	return 0;
 }

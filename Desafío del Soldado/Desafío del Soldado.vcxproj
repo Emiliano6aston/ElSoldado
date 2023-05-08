@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="Arma.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Soldado.cpp" />
   </ItemGroup>
   <ItemGroup>

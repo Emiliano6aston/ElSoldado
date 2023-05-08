@@ -2,7 +2,6 @@
 
 #include "Arma.h"
 
-
 using namespace std;
 
 class Soldado {
@@ -16,8 +15,6 @@ public:
 	bool DejarArma();
 	string VerArma();
 	int VerBalas();
-	
-	
 
 private:
 	string m_identificacion = "";
